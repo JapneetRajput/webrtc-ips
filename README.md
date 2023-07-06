@@ -1,6 +1,6 @@
 # STUN IP Address requests for WebRTC
 
-Demo: [(https://japneetrajput.github.io/webrtc-ips/)](https://japneetrajput.github.io/webrtc-ips/)
+Demo: [https://japneetrajput.github.io/webrtc-ips/](https://japneetrajput.github.io/webrtc-ips/)
 
 ### What this does
 
